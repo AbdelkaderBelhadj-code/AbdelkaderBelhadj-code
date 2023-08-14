@@ -12,7 +12,7 @@
 
 - ✅ I’m currently learning Java Script Frameworks and Librairies,
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **MEAN , SpringBoot**
 
