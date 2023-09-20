@@ -12,7 +12,7 @@
 
 - ✅ I’m currently learning Java Script Frameworks and Librairies,
 
-- 🌱 I’m currently learning **DevOps / Laravel**
+- 🌱 I’m currently learning **DevOps / React**
 
 - 💬 Ask me about **MEAN , SpringBoot**
 
