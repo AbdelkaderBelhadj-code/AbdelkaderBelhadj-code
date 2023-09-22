@@ -24,5 +24,5 @@
 
 
 ![Proof HTML](https://github.com/Microservice-crew/demo-repository/actions/workflows/proof-html.yml/badge.svg)
-![Visitors](https://img.shields.io/badge/Visitors-Count-brightgreen)
+![Visitors](https://img.shields.io/badge/Visitors-15-brightgreen)
 
