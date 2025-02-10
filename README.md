@@ -2,7 +2,7 @@
 <img align="center" alt="coding" width="400" src="https://sithcomputers.com/wp-content/uploads/2021/02/Full-Stack-Developer-1.gif">
 
 <h1 align="center"> Hi 👋, I'm Abdelkader Belhadj </h1> 
-<h3 align="center">A passionate full Stack JS developer from Tunisia</h3>
+<h3 align="center">A passionate Software Engineer from Tunisia</h3>
 
 
 </br>
