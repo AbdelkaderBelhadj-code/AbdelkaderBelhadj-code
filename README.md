@@ -7,7 +7,7 @@
 
 </br>
 
-- 🔭 I’m currently studying at ESPRIT Higher School of Engineering
+- 🔭 I have graduated from Private Higher School of Engineering and Technology.
 
 - ✅ I’m currently learning Java Script Frameworks and Librairies,
 
