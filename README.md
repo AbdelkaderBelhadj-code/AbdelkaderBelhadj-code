@@ -7,14 +7,6 @@
 
 </br>
 
-- 🔭 I have graduated from Private Higher School of Engineering and Technology.
-
-- ✅ I’m currently learning Java Script Frameworks and Librairies,
-
-- 🌱 I’m currently learning **DevOps / .NET**
-
-- 💬 Ask me about **MEAN , SpringBoot**
-
 <p align="left">
  </p>
 
