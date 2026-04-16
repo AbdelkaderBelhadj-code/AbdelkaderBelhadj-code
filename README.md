@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=abdelkader-belhadj&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=AbdelkaderBelhadj-code&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS" alt="Profile views"/>
 </div>
 
 <br/>
@@ -82,13 +82,13 @@ const abdelkader: SoftwareEngineer = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdelkader-belhadj&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdelkaderBelhadj-code&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelkader-belhadj&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelkaderBelhadj-code&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 </div>
 
 <div align="center">
-  <img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelkader-belhadj&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=c9d1d9&sideLabels=c9d1d9"/>
+  <img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelkaderBelhadj-code&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=c9d1d9&sideLabels=c9d1d9"/>
 </div>
 
 ---
@@ -96,7 +96,7 @@ const abdelkader: SoftwareEngineer = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdelkader-belhadj&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdelkaderBelhadj-code&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=7"/>
 </div>
 
 ---
@@ -104,7 +104,7 @@ const abdelkader: SoftwareEngineer = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdelkader-belhadj&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true"/>
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbdelkaderBelhadj-code&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true"/>
 </div>
 
 ---
