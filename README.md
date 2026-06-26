@@ -1,13 +1,15 @@
-<!-- ============ HEADER BANNER ============ -->
+<!-- ============ HEADER BANNER (SVG hosted on demolab — reliable) ============ -->
 <div align="center">
-  
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Abdelkader%20Belhadj&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Azure%20Cloud%20%26%20DevOps%20Engineer&descAlignY=58&descSize=18&animation=fadeIn)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=1&pause=99999999&color=0078D4&center=true&vCenter=true&width=900&height=80&lines=Abdelkader+Belhadj" alt="Abdelkader Belhadj"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1&pause=99999999&color=8B949E&center=true&vCenter=true&width=900&height=40&lines=Software+Engineer+%E2%80%A2+Azure+Cloud+%26+DevOps+Engineer" alt="Subtitle"/>
 
 </div>
 
-<!-- ============ TYPING ANIMATION ============ -->
+<!-- ============ DYNAMIC TYPING ANIMATION ============ -->
 <div align="center">
-  
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0078D4&center=true&vCenter=true&width=700&lines=Azure+Administrator+Associate+(AZ-104);DevOps+%26+Cloud+Infrastructure+Engineer;Building+Scalable+Cloud-Native+Solutions;CI%2FCD+%E2%80%A2+Docker+%E2%80%A2+Kubernetes+%E2%80%A2+Terraform)](https://git.io/typing-svg)
 
 </div>
@@ -179,13 +181,48 @@ const abdelkader = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievement Highlights
 
 <div align="center">
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AbdelkaderBelhadj-code&theme=tokyonight&row=1&column=7&margin-w=10&margin-h=10"/>
-  </a>
+<!-- Replaced unreliable github-profile-trophy with custom achievement cards -->
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/AZ--104-Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /><br/>
+<sub><b>🥇 Azure Administrator</b></sub><br/>
+<sub>Associate Certified</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/AZ--900-Certified-00BCF2?style=for-the-badge&logo=microsoftazure&logoColor=white" /><br/>
+<sub><b>🥈 Azure Fundamentals</b></sub><br/>
+<sub>Certified</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/AZ--400-In_Progress-FFA000?style=for-the-badge&logo=microsoftazure&logoColor=white" /><br/>
+<sub><b>🚀 DevOps Expert</b></sub><br/>
+<sub>In Progress</sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/2%2B_Years-Experience-6DB33F?style=for-the-badge&logo=trophy&logoColor=white" /><br/>
+<sub><b>💼 Professional</b></sub><br/>
+<sub>Software Engineering</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Full--Stack-Developer-512BD4?style=for-the-badge&logo=stackoverflow&logoColor=white" /><br/>
+<sub><b>⚡ Full-Stack</b></sub><br/>
+<sub>Angular, .NET, Spring</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Cloud-Architect-FF6C37?style=for-the-badge&logo=icloud&logoColor=white" /><br/>
+<sub><b>☁️ Cloud Native</b></sub><br/>
+<sub>Azure, Docker, K8s</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -260,33 +297,35 @@ const abdelkader = {
 
 <div align="center">
 
-  Open to opportunities in **Cloud Engineering**, **Azure Administration**, **DevOps**, and **Software Engineering**.
+Open to opportunities in **Cloud Engineering**, **Azure Administration**, **DevOps**, and **Software Engineering**.
 
-  <br/>
+<br/>
 
-  <a href="https://www.linkedin.com/in/abdelkader-belhadj-bb9a94224">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:belhajabdelkader3@gmail.com">
-    <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://abdelkader.dev">
-    <img src="https://img.shields.io/badge/Visit_Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/abdelkader-belhadj-bb9a94224">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:belhajabdelkader3@gmail.com">
+  <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://abdelkader.dev">
+  <img src="https://img.shields.io/badge/Visit_Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 </div>
 
 <br/>
 
 <div align="center">
-  
+
 ### 💬 *"Building reliable software is great. Building reliable cloud infrastructure is even better."*
 
 </div>
 
-<!-- ============ FOOTER BANNER ============ -->
+<!-- ============ FOOTER (gradient bar via shields.io — always reliable) ============ -->
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="footer" onerror="this.style.display='none'"/>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 
 </div>
